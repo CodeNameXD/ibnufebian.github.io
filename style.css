@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 100px;
+  background-color: #ecdef1;
+}
+
+#gallery {
+  background-color: #ecdef1;
+}
+
+section {
+  padding-top: 90px;
+}
+
+ul li {
+  color: white;
+}
